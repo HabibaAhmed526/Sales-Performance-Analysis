@@ -3,11 +3,11 @@
 This Power BI dashboard provides an in-depth analysis of total sales performance across various dimensions, including time, geography, product categories, and customer segments.
 
 ### Dashboard
-
+----
 ![image](https://github.com/user-attachments/assets/e700da56-582b-4fad-b28c-0a5bc0de0edd)
 
 ### Features
---
+----
 **1. Key Performance Indicators (KPIs)**
 * Total Sales: Displays the total revenue generated.
 * Total Profit: Summarizes the total profit earned.
@@ -31,7 +31,7 @@ This Power BI dashboard provides an in-depth analysis of total sales performance
 
 
 ### Key Insights
---
+----
 * **Consistent Sales Growth:** Sales have shown a steady upward trend over time, indicating strong business performance.
 * **Profit by Region:** The Central region is the most profitable, while the South and North regions generate lower profits.
 * **Sales by Segment:** The Corporate segment contributes the most to total sales, followed by Consumer and Home Office.
