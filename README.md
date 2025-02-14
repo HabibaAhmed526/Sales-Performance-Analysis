@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides an in-depth analysis of total sales performance across various dimensions, including time, geography, product categories, and customer segments.
 
-### Features:
+### Features
 
 **1. Key Performance Indicators (KPIs)**
 Total Sales: Displays the total revenue generated.
@@ -26,9 +26,9 @@ Bar Chart: Highlights the top-performing products based on sales.
 Column Chart: Shows the number of orders by ship mode, visualizing order distribution over different shipping methods.
 
 ### Key Insights
-* Consistent Sales Growth: Sales have shown a steady upward trend over time, indicating strong business performance.
-* Profit by Region: The Central region is the most profitable, while the South and North regions generate lower profits.
-* Sales by Segment: The Corporate segment contributes the most to total sales, followed by Consumer and Home Office.
-* Top Product Categories: Technology and Furniture generate the highest revenue, with subcategories such as Phones, Machines, and Bookcases being top performers.
-* Geographical Performance: Sales are concentrated in major European markets, with some countries contributing significantly more than others.
-* Seasonal Trends: Sales and profit trends suggest seasonal variations, which can help in planning marketing and inventory strategies.
+* **Consistent Sales Growth:** Sales have shown a steady upward trend over time, indicating strong business performance.
+* **Profit by Region:** The Central region is the most profitable, while the South and North regions generate lower profits.
+* **Sales by Segment:** The Corporate segment contributes the most to total sales, followed by Consumer and Home Office.
+* **Top Product Categories:** Technology and Furniture generate the highest revenue, with subcategories such as Phones, Machines, and Bookcases being top performers.
+* **Geographical Performance:** Sales are concentrated in major European markets, with some countries contributing significantly more than others.
+* **Seasonal Trends:** Sales and profit trends suggest seasonal variations, which can help in planning marketing and inventory strategies.
