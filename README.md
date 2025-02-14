@@ -10,20 +10,20 @@ This Power BI dashboard provides an in-depth analysis of total sales performance
 * Total Orders: Shows the total number of orders placed.
 
 **2. Sales and Profit Analysis**
-Bar Chart: Visualizes total sales and profit across different product categories: Technology, Office Supplies, and Furniture.
-Donut Charts:
-Sales Distribution by Category: Shows the proportion of sales across categories.
-Profit Distribution by Category: Breaks down profit by categories.
+* Bar Chart: Visualizes total sales and profit across different product categories: Technology, Office Supplies, and Furniture.
+* Donut Charts:
+  * Sales Distribution by Category: Shows the proportion of sales across categories.
+  * Profit Distribution by Category: Breaks down profit by categories.
 
 **3. Geographical Sales Insights**
-Map Visualization: Displays sales performance by regions within Europe, providing geographical insights into revenue distribution.
+* Map Visualization: Displays sales performance by regions within Europe, providing geographical insights into revenue distribution.
 
 **4. Sales and Profit Trends**
-Line Chart: Tracks monthly sales and profit trends, highlighting seasonal variations and business growth over time.
+* Line Chart: Tracks monthly sales and profit trends, highlighting seasonal variations and business growth over time.
 
 **5. Product and Shipping Analysis**
-Bar Chart: Highlights the top-performing products based on sales.
-Column Chart: Shows the number of orders by ship mode, visualizing order distribution over different shipping methods.
+* Bar Chart: Highlights the top-performing products based on sales.
+* Column Chart: Shows the number of orders by ship mode, visualizing order distribution over different shipping methods.
 
 ### Key Insights
 * **Consistent Sales Growth:** Sales have shown a steady upward trend over time, indicating strong business performance.
