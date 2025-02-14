@@ -5,9 +5,9 @@ This Power BI dashboard provides an in-depth analysis of total sales performance
 ### Features
 
 **1. Key Performance Indicators (KPIs)**
-Total Sales: Displays the total revenue generated.
-Total Profit: Summarizes the total profit earned.
-Total Orders: Shows the total number of orders placed.
+* Total Sales: Displays the total revenue generated.
+* Total Profit: Summarizes the total profit earned.
+* Total Orders: Shows the total number of orders placed.
 
 **2. Sales and Profit Analysis**
 Bar Chart: Visualizes total sales and profit across different product categories: Technology, Office Supplies, and Furniture.
