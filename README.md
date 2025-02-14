@@ -2,6 +2,11 @@
 
 This Power BI dashboard provides an in-depth analysis of total sales performance across various dimensions, including time, geography, product categories, and customer segments.
 
+### Dashboard
+
+![image](https://github.com/user-attachments/assets/e700da56-582b-4fad-b28c-0a5bc0de0edd)
+---
+
 ### Features
 
 **1. Key Performance Indicators (KPIs)**
